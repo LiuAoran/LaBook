@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "5b3422590fadf4dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "22ecc7731e19e4a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "117186be35504104",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "配置/标签体系.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5519401d62d3c595",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "配置/标签体系.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5cf1210a9827937f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a554b93e02c2e8de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f6f25fba1125ccd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8609a7945571be72",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#技术/WPF",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84b8e3b00314d58f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ae638e4659a95e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f566b9fc11c166c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9389181a8bf8ef63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "配置/标签体系.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b90c60fd2c77d533",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "配置/标签体系.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b3022c87dee0510",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "34849fefbc09f17f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "配置/标签体系.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "117186be35504104",
+  "lastOpenFiles": [
+    "内容/技术/其他/一些网站.md",
+    "配置/标签体系.md",
+    "内容/技术/Git/Git工作流.md",
+    "内容",
+    "模板/无偏好.md",
+    "内容/技术/Git/未命名 1.md",
+    "内容/技术/Git/工作流类型.md",
+    "内容/技术/其他",
+    "内容/技术/Git/git工作流",
+    "模板",
+    "配置",
+    "内容/技术",
+    "技术/Git/Git工作流",
+    "内容/技术/Git"
+  ]
+}
