@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1ba9ccdce38ad9a2",
+        "id": "2b77c5d90c567c50",
         "type": "tabs",
         "children": [
           {
-            "id": "7493e5056ae59ef3",
+            "id": "c14e14d38ece46cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "配置/标签体系.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,14 +81,13 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "配置/标签体系.md",
-            "collapseAll": false,
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
-            "showSearch": false,
+            "showSearch": true,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+            "unlinkedCollapsed": false
           }
         }
       },
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "配置/标签体系.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,12 +108,11 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "配置/标签体系.md"
+            "file": "内容/技术/Git/未命名 1.md"
           }
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -132,5 +125,13 @@
     }
   },
   "active": "8a48e01e65a7c1e0",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "未命名 2.canvas",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "2023-11-22.md",
+    "配置/标签体系.md",
+    "内容/技术/其他/一些网站.md",
+    "内容/技术/Git/未命名 1.md"
+  ]
 }
