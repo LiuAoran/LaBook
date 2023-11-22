@@ -11,8 +11,12 @@
             "id": "c14e14d38ece46cb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "内容/文档/用户指南文档说明.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "内容/文档/用户指南文档说明.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "内容/文档/用户指南文档说明.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -108,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "内容/技术/Git/未命名 1.md"
+            "file": "内容/文档/用户指南文档说明.md"
           }
         }
       }
@@ -124,8 +130,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8a48e01e65a7c1e0",
+  "active": "c14e14d38ece46cb",
   "lastOpenFiles": [
+    "内容/外部.md",
+    "附件/UserGuideTitle.png",
+    "附件/UserGuideSubTitle.png",
+    "附件",
+    "内容/文档/用户指南文档说明.md",
+    "内容/文档",
+    "内容/技术/Git/工作流类型.md",
     "未命名 2.canvas",
     "未命名.canvas",
     "未命名 1.canvas",
