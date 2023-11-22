@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "内容/外部.md",
+                "file": "内容/文档/用户指南文档说明.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,8 +51,8 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "内容/外部.md",
+                "file": "内容/文档/用户指南文档说明.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "内容/外部.md",
+                "file": "内容/文档/用户指南文档说明.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "内容/外部.md"
+                "file": "内容/文档/用户指南文档说明.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,9 +148,14 @@
   },
   "active": "1f6f25fba1125ccd",
   "lastOpenFiles": [
+    "附件/UserGuideSubTitle.png",
+    "附件/UserGuideTitle.png",
+    "内容/文档/用户指南文档说明.md",
+    "附件",
+    "内容/外部.md",
+    "内容/文档",
     "配置/标签体系.md",
     "内容/技术/Git/工作流类型.md",
-    "内容/外部.md",
     "[面向.md",
     "内容/技术/Git/Git工作流.md",
     "内容",
