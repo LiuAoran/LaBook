@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "22ecc7731e19e4a7",
+        "id": "92fa78033e496ca4",
         "type": "tabs",
         "children": [
           {
-            "id": "117186be35504104",
+            "id": "a4d01fc81924a6c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "配置/标签体系.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5519401d62d3c595",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "配置/标签体系.md",
+                "file": "内容/技术/其他/网站.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#技术/WPF",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "配置/标签体系.md",
+                "file": "内容/技术/其他/网站.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "配置/标签体系.md",
+                "file": "内容/技术/其他/网站.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "配置/标签体系.md"
+                "file": "内容/技术/其他/网站.md"
               }
             }
           }
@@ -159,15 +146,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "117186be35504104",
+  "active": "a4d01fc81924a6c8",
   "lastOpenFiles": [
-    "内容/技术/其他/一些网站.md",
     "配置/标签体系.md",
+    "内容/技术/Git/工作流类型.md",
+    "内容/技术/其他/网站.md",
+    "[面向.md",
     "内容/技术/Git/Git工作流.md",
     "内容",
     "模板/无偏好.md",
     "内容/技术/Git/未命名 1.md",
-    "内容/技术/Git/工作流类型.md",
     "内容/技术/其他",
     "内容/技术/Git/git工作流",
     "模板",
