@@ -1,4 +1,7 @@
 {
   "attachmentFolderPath": "资源",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "strictLineBreaks": false
 }

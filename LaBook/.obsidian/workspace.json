@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c0c4acd12ab6de4e",
+        "id": "2f59a368181b8b17",
         "type": "tabs",
         "children": [
           {
-            "id": "1116d678a2095732",
+            "id": "3eb513de0f309e51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "内容/文档/用户指南文档说明.md",
-                "mode": "source",
+                "file": "内容/技术/Git/Git Tools/分支合并.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "内容/文档/用户指南文档说明.md",
+                "file": "内容/技术/Git/Git Tools/分支合并.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "内容/文档/用户指南文档说明.md",
+                "file": "内容/技术/Git/Git Tools/分支合并.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "内容/文档/用户指南文档说明.md"
+                "file": "内容/技术/Git/Git Tools/分支合并.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,27 +147,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1f6f25fba1125ccd",
+  "active": "3eb513de0f309e51",
   "lastOpenFiles": [
+    "内容/技术/Git/Git Tools/强制追踪远端tag.md",
+    "内容/技术/CSharp/未命名.md",
+    "内容/技术/Git/Git Tools/Tag already exists引起问题.md",
+    "内容/技术/Git/Git Tools/未拉取先提交引起错误.md",
+    "内容/技术/Git/Git Tools/远端Git branch改名.md",
+    "内容/技术/Git/Git Tools/已推入远端的记录需要回退.md",
+    "内容/技术/Git/Git Tools/分支合并.md",
+    "内容/技术/Git/Git工作流/Git工作流.md",
+    "内容/技术/CSharp",
+    "内容/技术/Git/Git Tools",
+    "内容/技术/Git/Git工作流",
+    "内容/技术/Git/Git工作流/工作流类型.md",
+    "内容/技术/Git/Git Tools.md",
+    "内容/文档/用户指南文档说明.md",
     "附件/UserGuideSubTitle.png",
     "附件/UserGuideTitle.png",
-    "内容/文档/用户指南文档说明.md",
     "附件",
     "内容/外部.md",
     "内容/文档",
     "配置/标签体系.md",
-    "内容/技术/Git/工作流类型.md",
     "[面向.md",
-    "内容/技术/Git/Git工作流.md",
     "内容",
     "模板/无偏好.md",
     "内容/技术/Git/未命名 1.md",
     "内容/外部",
     "内容/技术/Git/git工作流",
     "模板",
-    "配置",
-    "内容/技术",
-    "技术/Git/Git工作流",
-    "内容/技术/Git"
+    "配置"
   ]
 }
