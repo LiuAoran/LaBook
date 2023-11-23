@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2f59a368181b8b17",
+        "id": "844da8403aa74ca9",
         "type": "tabs",
         "children": [
           {
-            "id": "3eb513de0f309e51",
+            "id": "9d711851abcd5b4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "内容/技术/Git/Git Tools/分支合并.md",
+                "file": "内容/技术/CSharp/规范/注释风格.md",
                 "mode": "preview",
                 "source": false
               }
@@ -51,8 +51,8 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "内容/技术/Git/Git Tools/分支合并.md",
+                "file": "内容/技术/CSharp/规范/注释风格.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "内容/技术/Git/Git Tools/分支合并.md",
+                "file": "内容/技术/CSharp/规范/注释风格.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,17 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "内容/技术/Git/Git Tools/分支合并.md"
+                "file": "内容/技术/CSharp/规范/注释风格.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 228.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,38 +143,44 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3eb513de0f309e51",
+  "active": "9d711851abcd5b4c",
   "lastOpenFiles": [
-    "内容/技术/Git/Git Tools/强制追踪远端tag.md",
-    "内容/技术/CSharp/未命名.md",
+    "附件/Canvas/未命名.canvas",
+    "附件/Image/UserGuideTitle.png",
+    "附件/Image/UserGuideSubTitle.png",
+    "附件/Canvas",
+    "未命名.canvas",
+    "内容/文档/用户指南文档说明.md",
+    "附件/Image",
+    "内容/技术/Git/git工作流/Git工作流.md",
+    "内容/技术/CSharp/规范/StyleCop.md",
+    "内容/技术/CSharp/规范/注释风格.md",
     "内容/技术/Git/Git Tools/Tag already exists引起问题.md",
-    "内容/技术/Git/Git Tools/未拉取先提交引起错误.md",
+    "内容/技术/CSharp/未命名.md",
+    "内容/技术/CSharp/规范",
+    "配置/标签体系.md",
+    "内容/外部.md",
+    "内容/技术/Git/工作流类型.md",
+    "附件",
+    "内容/文档",
+    "内容/技术/Git/git工作流/工作流类型.md",
     "内容/技术/Git/Git Tools/远端Git branch改名.md",
+    "内容/技术/Git/Git Tools/强制追踪远端tag.md",
+    "内容/技术/Git/Git Tools/未拉取先提交引起错误.md",
     "内容/技术/Git/Git Tools/已推入远端的记录需要回退.md",
     "内容/技术/Git/Git Tools/分支合并.md",
-    "内容/技术/Git/Git工作流/Git工作流.md",
-    "内容/技术/CSharp",
     "内容/技术/Git/Git Tools",
-    "内容/技术/Git/Git工作流",
-    "内容/技术/Git/Git工作流/工作流类型.md",
-    "内容/技术/Git/Git Tools.md",
-    "内容/文档/用户指南文档说明.md",
-    "附件/UserGuideSubTitle.png",
-    "附件/UserGuideTitle.png",
-    "附件",
-    "内容/外部.md",
-    "内容/文档",
-    "配置/标签体系.md",
-    "[面向.md",
+    "内容/技术/CSharp",
+    "内容/技术/其他/一些网站.md",
+    "内容/技术/Git/Git工作流.md",
     "内容",
     "模板/无偏好.md",
     "内容/技术/Git/未命名 1.md",
-    "内容/外部",
-    "内容/技术/Git/git工作流",
-    "模板",
-    "配置"
+    "内容/技术/其他",
+    "内容/技术/Git/git工作流"
   ]
 }
