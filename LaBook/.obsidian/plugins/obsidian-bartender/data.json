@@ -1,0 +1,44 @@
+{
+  "statusBarOrder": [],
+  "ribbonBarOrder": [],
+  "fileExplorerOrder": {
+    "内容/技术/Git/Git Tools": [
+      "内容/技术/Git/Git Tools/Tag already exists引起问题.md",
+      "内容/技术/Git/Git Tools/分支合并.md",
+      "内容/技术/Git/Git Tools/已推入远端的记录需要回退.md",
+      "内容/技术/Git/Git Tools/强制追踪远端tag.md",
+      "内容/技术/Git/Git Tools/未拉取先提交引起错误.md",
+      "内容/技术/Git/Git Tools/远端Git branch改名.md"
+    ],
+    "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序": [
+      "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序/使用反射构建动态可扩展程序.md",
+      "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序/早期绑定与晚期绑定.md",
+      "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序/反射的性能.md"
+    ],
+    "内容/技术/NET/CSharp/规范": [
+      "内容/技术/NET/CSharp/规范/注释风格.md",
+      "内容/技术/NET/CSharp/规范/StyleCop.md"
+    ],
+    "内容/技术/NET/CLR/核心机制": [
+      "内容/技术/NET/CLR/核心机制/异常和状态管理",
+      "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序",
+      "内容/技术/NET/CLR/核心机制/运行时序列化"
+    ],
+    "内容/技术/NET": [
+      "内容/技术/NET/CLR",
+      "内容/技术/NET/CSharp",
+      "内容/技术/NET/WPF"
+    ],
+    "/": [
+      "内容",
+      "资料",
+      "模板",
+      "配置",
+      "附件"
+    ]
+  },
+  "actionBarOrder": {},
+  "autoHide": false,
+  "autoHideDelay": 2000,
+  "dragDelay": 200
+}
