@@ -3,5 +3,8 @@
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
   "showLineNumber": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "内容",
+  "newLinkFormat": "absolute"
 }
