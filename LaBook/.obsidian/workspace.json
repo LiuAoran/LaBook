@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "内容/外部.md",
+                "file": "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序/反射的性能.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "内容/外部.md",
+                "file": "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序/反射的性能.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "内容/外部.md",
+                "file": "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序/反射的性能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "内容/外部.md"
+                "file": "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序/反射的性能.md"
               }
             }
           },
@@ -138,11 +138,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,18 +158,22 @@
   },
   "active": "5c660d697c01d8ae",
   "lastOpenFiles": [
-    "内容/技术/NET/CLR/基本类型/字符，字符串和文本处理/String/String.md",
-    "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序/早期绑定与晚期绑定.md",
-    "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序/反射的性能.md",
     "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序/使用反射构建动态可扩展程序.md",
-    "内容/技术/NET/CLR/核心机制/运行时序列化/定义异常.md",
+    "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序/早期绑定与晚期绑定.md",
+    "内容/技术/NET/CLR/核心机制/异常和状态管理/定义异常.md",
     "内容/技术/NET/CLR/核心机制/异常和状态管理/异常处理机制.md",
-    "内容/技术/NET/CLR/核心机制/运行时序列化/运行时序列化.md",
-    "内容/技术/NET/CLR/核心机制/异常和状态管理",
-    "内容/外部.md",
-    "内容/技术/NET/WPF/WPF Tools/简化INotifyPropertyChanged实现.md",
     "内容/技术/NET/CSharp/CSharp Tools/Caller Information Attributes.md",
     "内容/技术/NET/CSharp/规范/注释风格.md",
+    "内容/技术/NET/CSharp/规范/StyleCop.md",
+    "内容/技术/Git/Git Tools/已推入远端的记录需要回退.md",
+    "内容/技术/Git/Git Tools/未拉取先提交引起错误.md",
+    "内容/技术/NET/CLR/基本类型/字符，字符串和文本处理/String/String.md",
+    "内容/技术/NET/NET Tools",
+    "内容/外部.md",
+    "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序/反射的性能.md",
+    "内容/技术/NET/CLR/核心机制/运行时序列化/运行时序列化.md",
+    "内容/技术/NET/CLR/核心机制/异常和状态管理",
+    "内容/技术/NET/WPF/WPF Tools/简化INotifyPropertyChanged实现.md",
     "内容/技术/Git/Git Tools/Tag already exists引起问题.md",
     "内容/文档/用户指南文档说明.md",
     "附件/Image/UserGuideTitle.png",
@@ -186,17 +190,12 @@
     "内容/技术/NET/CSharp",
     "内容/技术/NET/WPF",
     "内容/技术/NET/CSharp/CSharp Tools",
-    "内容/技术/NET/CSharp/规范/StyleCop.md",
-    "资料/Book/小说和诗集/老派約會之必要 (李維菁).pdf",
     "内容/技术/Git/Git Tools/远端Git branch改名.md",
     "内容/技术/Git/Git功能/Git tag.md",
     "内容/技术/Git/Git工作流/Git工作流.md",
-    "内容/技术/Git/Git Tools/已推入远端的记录需要回退.md",
     "内容/技术/CSharp/基本类型/字符，字符串和文本处理/String/b.字符串留用.md",
     "内容/技术/CSharp/基本类型/字符，字符串和文本处理/String/介绍.md",
-    "内容/技术/Git/Git Tools/未拉取先提交引起错误.md",
     "内容/技术/Git/Git Tools/强制追踪远端tag.md",
-    "内容/技术/Git/Git工作流/Git工作流.md",
     "未命名.canvas"
   ]
 }

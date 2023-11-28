@@ -25,6 +25,7 @@
       "内容/技术/NET/CLR/核心机制/运行时序列化"
     ],
     "内容/技术/NET": [
+      "内容/技术/NET/NET Tools",
       "内容/技术/NET/CLR",
       "内容/技术/NET/CSharp",
       "内容/技术/NET/WPF"
@@ -35,6 +36,14 @@
       "模板",
       "配置",
       "附件"
+    ],
+    "内容/技术/NET/CLR/基本类型/字符，字符串和文本处理/String": [
+      "内容/技术/NET/CLR/基本类型/字符，字符串和文本处理/String/String.md",
+      "内容/技术/NET/CLR/基本类型/字符，字符串和文本处理/String/字符串留用.md"
+    ],
+    "内容/技术/NET/CSharp": [
+      "内容/技术/NET/CSharp/CSharp Tools",
+      "内容/技术/NET/CSharp/规范"
     ]
   },
   "actionBarOrder": {},
