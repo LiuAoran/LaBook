@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "15d204ca217d7b01",
+        "id": "dfd31aeb5f5c8f5a",
         "type": "tabs",
         "children": [
           {
-            "id": "5c660d697c01d8ae",
+            "id": "e22f34c0223d5a35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "配置/标签体系.md",
-                "mode": "preview",
+                "file": "内容/文档/DITA/定制PDF输出/XSLT 简介.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -32,16 +32,6 @@
         "id": "a554b93e02c2e8de",
         "type": "tabs",
         "children": [
-          {
-            "id": "1f6f25fba1125ccd",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "custom"
-              }
-            }
-          },
           {
             "id": "8609a7945571be72",
             "type": "leaf",
@@ -64,13 +54,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "a20c1c23671d31b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 437.5
   },
   "right": {
     "id": "7ae638e4659a95e4",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "配置/标签体系.md",
+                "file": "内容/文档/DITA/定制PDF输出/XSLT 简介.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "配置/标签体系.md",
+                "file": "内容/文档/DITA/定制PDF输出/XSLT 简介.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "配置/标签体系.md"
+                "file": "内容/文档/DITA/定制PDF输出/XSLT 简介.md"
               }
             }
           },
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 391.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,17 +158,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c660d697c01d8ae",
+  "active": "e22f34c0223d5a35",
   "lastOpenFiles": [
+    "内容/能力/沟通/即兴表达.md",
+    "内容/管理/管资源/预判：谈判成功取决于谈判前.md",
+    "内容/能力/沟通",
+    "内容/管理/管自己/抗压：如何在压力下，保持良好状态.md",
+    "内容/管理/管资源",
+    "内容/管理/管团队/激发：培养独当一面的人才.md",
+    "内容/管理/管自己",
+    "内容/管理/管业务/流转：收集信息，提升决策质量.md",
+    "内容/管理/管团队",
+    "内容/能力/项目管理/基础理论/五大过程组.md",
+    "内容/管理/未命名/未命名",
+    "内容/管理/管业务",
     "内容/管理",
+    "内容/能力/项目管理/基础理论/十大知识领域.md",
+    "内容/外部.md",
+    "内容/能力/项目管理/基础理论/项目管理理论框架.canvas",
+    "附件/Draw.io/Untitled Diagram.svg",
+    "内容/能力/项目管理/排期/Work Breakdown Structure/什么是WBS.md",
+    "内容/能力/项目管理/基础理论/项目管理理论体系.md",
+    "附件/Draw.io/DITA-OT生成PDF示例图.svg",
+    "资料/Book/传记/史蒂夫·乔布斯传（修订版） ([美]沃尔特·艾萨克森) (Z-Library).pdf",
+    "附件/Canvas/未命名.canvas",
+    "附件/Image/UserGuideSubTitle.png",
+    "内容/能力/项目管理/基础理论/Untitled Diagram.svg",
+    "附件/Draw.io",
+    "附件/Canvas",
+    "内容/文档/DITA/定制PDF输出/XSLT 简介.md",
+    "内容/能力/项目管理/排期/未命名.md",
+    "内容/未命名.md",
+    "配置/标签体系.md",
     "内容/技术/Git/Git Tools/远端Git branch改名.md",
     "内容/技术/Git/Git Tools/未拉取先提交引起错误.md",
     "内容/技术/Git/Git工作流/Git工作流.md",
     "内容/技术/Git/Git功能/Git tag.md",
     "内容/技术/Git/Git Tools/强制追踪远端tag.md",
-    "配置/标签体系.md",
-    "资料/image pack",
-    "内容/外部.md",
     "内容/技术/Git/Git Tools/Tag already exists引起问题.md",
     "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序/反射的性能.md",
     "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序/使用反射构建动态可扩展程序.md",
@@ -175,29 +202,7 @@
     "内容/技术/NET/CLR/核心机制/异常和状态管理/定义异常.md",
     "内容/技术/NET/CLR/核心机制/异常和状态管理/异常处理机制.md",
     "内容/技术/NET/CSharp/CSharp Tools/Caller Information Attributes.md",
-    "内容/技术/NET/CSharp/规范/注释风格.md",
-    "内容/技术/NET/CSharp/规范/StyleCop.md",
-    "内容/技术/Git/Git Tools/已推入远端的记录需要回退.md",
-    "内容/技术/NET/CLR/基本类型/字符，字符串和文本处理/String/String.md",
-    "内容/技术/NET/NET Tools",
-    "内容/技术/NET/CLR/核心机制/运行时序列化/运行时序列化.md",
-    "内容/技术/NET/CLR/核心机制/异常和状态管理",
-    "内容/技术/NET/WPF/WPF Tools/简化INotifyPropertyChanged实现.md",
-    "内容/文档/用户指南文档说明.md",
     "附件/Image/UserGuideTitle.png",
-    "附件/Image/UserGuideSubTitle.png",
-    "附件/Canvas/未命名.canvas",
-    "内容/技术/NET/CLR/基本类型/字符，字符串和文本处理/String/字符串留用.md",
-    "内容/技术/Git/Git Tools/分支合并.md",
-    "内容/技术/NET/WPF/WPF Tools",
-    "内容/技术/NET/CLR",
-    "内容/技术/未命名/未命名",
-    "内容/技术/未命名",
-    "内容/技术/CSharp/未命名/未命名",
-    "内容/技术/NET/CSharp",
-    "内容/技术/NET/WPF",
-    "内容/技术/CSharp/基本类型/字符，字符串和文本处理/String/b.字符串留用.md",
-    "内容/技术/CSharp/基本类型/字符，字符串和文本处理/String/介绍.md",
     "未命名.canvas"
   ]
 }

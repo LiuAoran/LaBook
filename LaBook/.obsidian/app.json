@@ -4,7 +4,7 @@
   "defaultViewMode": "preview",
   "showLineNumber": true,
   "strictLineBreaks": false,
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "newFileFolderPath": "内容",
   "newLinkFormat": "absolute",
   "promptDelete": false

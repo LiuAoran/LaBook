@@ -44,6 +44,10 @@
     "内容/技术/NET/CSharp": [
       "内容/技术/NET/CSharp/CSharp Tools",
       "内容/技术/NET/CSharp/规范"
+    ],
+    "内容/能力/项目管理/基础理论": [
+      "内容/能力/项目管理/基础理论/项目管理理论框架.canvas",
+      "内容/能力/项目管理/基础理论/未命名.md"
     ]
   },
   "actionBarOrder": {},
