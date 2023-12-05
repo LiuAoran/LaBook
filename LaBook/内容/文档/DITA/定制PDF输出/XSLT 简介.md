@@ -1,0 +1,4 @@
+- XSL 指扩展样式表语言（Extensible Stylesheet Language）,它是一个 XML 文档的样式表。
+- XSLT 指 XSL 转换（Transformation）。可将 XML 转换为多种输出，比如：
+	- HTML - 用于浏览显示.
+	- XSL-FO - 用于PDF显示或打印。
