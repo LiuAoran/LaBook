@@ -6,5 +6,6 @@
   "strictLineBreaks": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "内容",
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "promptDelete": false
 }
