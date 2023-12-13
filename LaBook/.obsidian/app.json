@@ -7,5 +7,6 @@
   "newFileLocation": "current",
   "newFileFolderPath": "内容",
   "newLinkFormat": "absolute",
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": false
 }
