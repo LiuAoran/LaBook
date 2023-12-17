@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "内容/外部.md",
+                "file": "内容/技术/NET/CSharp/规范/注释风格.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#团队",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "内容/外部.md",
+                "file": "内容/技术/NET/CSharp/规范/注释风格.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "内容/外部.md",
+                "file": "内容/技术/NET/CSharp/规范/注释风格.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "内容/外部.md"
+                "file": "内容/技术/NET/CSharp/规范/注释风格.md"
               }
             }
           },
@@ -159,34 +159,38 @@
   },
   "active": "52277aec5b9ee9cf",
   "lastOpenFiles": [
-    "内容/技术/NET/WPF/WPF Tools/简化INotifyPropertyChanged实现.md",
-    "演示/文档重构复盘.md",
-    "附件/Image/保存文档.png",
-    "附件/Image/调用方式错误.png",
-    "附件/Image/干系人.png",
-    "附件/Image/Flatten.png",
-    "附件/Image/DITA阅读顺序.png",
-    "内容/外部.md",
+    "内容/技术/NET/CSharp/规范/StyleCop.md",
+    "内容/技术/NET/CSharp/规范/注释风格.md",
     "内容/文档/用户指南文档说明.md",
+    "内容/文档/DITA/定制PDF输出/XSLT 简介.md",
+    "内容/管理/管自己/抗压：如何在压力下，保持良好状态.md",
+    "附件/Image/UserGuideSubTitle.png",
+    "附件/Image/UserGuideTitle.png",
+    "附件/Image/干系人.png",
+    "附件/Image/DITA阅读顺序.png",
+    "附件/Image/函数名功能不匹配.png",
+    "附件/Image/功能分点.png",
+    "附件/Image/功能聚焦.png",
+    "附件/Image/引起问题的空格.png",
+    "附件/Image/文本重排.png",
+    "附件/Image/文档对比.png",
+    "附件/Image",
+    "演示/文档重构复盘.md",
+    "演示",
+    "内容/外部.md",
+    "内容/技术/Git/Git Tools/Tag already exists引起问题.md",
+    "内容/技术/Git/Git Tools/分支合并.md",
+    "资料/Book/产品/人人都是产品经理 (苏杰 [苏杰]) (Z-Library).pdf",
+    "资料/Book/产品/启示录：打造用户喜爱的产品.pdf",
+    "内容/技术/NET/WPF/WPF Tools/简化INotifyPropertyChanged实现.md",
     "资料/Book/写作/风格感觉：21世纪写作指南 ([美] 史蒂芬·平克) (Z-Library).pdf",
     "资料/Book/管理/格鲁夫给经理人的第一课：畅销版 ([美]安迪·格鲁夫) (Z-Library).pdf",
-    "附件/Image/语言表达.png",
-    "附件/Image/自包含.png",
-    "附件/Image/空格.png",
-    "附件/Image/知识性内容.png",
-    "附件/Image/标题符号.png",
-    "演示",
-    "资料/Book/产品/启示录：打造用户喜爱的产品.pdf",
     "内容/能力/沟通/即兴表达.md",
     "资料/Book/传记/史蒂夫·乔布斯传（修订版） ([美]沃尔特·艾萨克森) (Z-Library).pdf",
-    "资料/Book/产品/人人都是产品经理 (苏杰 [苏杰]) (Z-Library).pdf",
     "资料/Book/管理/做自己人生的CEO-人人都需要的管理术.pdf",
     "资料/Book/管理/影响力 (Robert B. Cialdini, 西奥迪尼, 闾佳) (Z-Library).pdf",
     "资料/Book/营销/高情商成交课 (梁汉桥).pdf",
-    "资料/Book/营销/跨越鸿沟-颠覆性产品营销圣经 ([美] 杰弗里·摩尔(Geoffrey A. Moore)) (Z-Library).pdf",
-    "内容/文档/DITA/定制PDF输出/XSLT 简介.md",
     "内容/管理/管资源/预判：谈判成功取决于谈判前.md",
-    "内容/管理/管自己/抗压：如何在压力下，保持良好状态.md",
     "内容/管理/管团队/激发：培养独当一面的人才.md",
     "内容/管理/管业务/流转：收集信息，提升决策质量.md",
     "内容/能力/项目管理/基础理论/五大过程组.md",
@@ -202,11 +206,6 @@
     "内容/技术/Git/Git Tools/未拉取先提交引起错误.md",
     "内容/技术/Git/Git工作流/Git工作流.md",
     "内容/技术/Git/Git功能/Git tag.md",
-    "内容/技术/Git/Git Tools/强制追踪远端tag.md",
-    "内容/技术/Git/Git Tools/Tag already exists引起问题.md",
-    "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序/反射的性能.md",
-    "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序/使用反射构建动态可扩展程序.md",
-    "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序/早期绑定与晚期绑定.md",
     "未命名.canvas"
   ]
 }
