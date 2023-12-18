@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6142f6624c721027",
+        "id": "8beccf99d4c7ebf1",
         "type": "tabs",
         "children": [
           {
-            "id": "52277aec5b9ee9cf",
+            "id": "ea4f44e4d23d2ebd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "内容/技术/NET/CSharp/规范/注释风格.md",
+                "file": "配置/标签体系.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "内容/技术/NET/CSharp/规范/注释风格.md",
+                "file": "配置/标签体系.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "内容/技术/NET/CSharp/规范/注释风格.md",
+                "file": "配置/标签体系.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "内容/技术/NET/CSharp/规范/注释风格.md"
+                "file": "配置/标签体系.md"
               }
             }
           },
@@ -157,13 +157,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "52277aec5b9ee9cf",
+  "active": "ea4f44e4d23d2ebd",
   "lastOpenFiles": [
-    "内容/技术/NET/CSharp/规范/StyleCop.md",
-    "内容/技术/NET/CSharp/规范/注释风格.md",
+    "内容/外部.md",
     "内容/文档/用户指南文档说明.md",
     "内容/文档/DITA/定制PDF输出/XSLT 简介.md",
-    "内容/管理/管自己/抗压：如何在压力下，保持良好状态.md",
+    "内容/能力/项目管理/基础理论/十大知识领域.md",
+    "内容/能力/沟通/即兴表达.md",
+    "内容/技术/NET/WPF/WPF Tools/简化INotifyPropertyChanged实现.md",
+    "内容/技术/NET/CSharp/CSharp Tools/Caller Information Attributes.md",
+    "内容/技术/NET/CSharp/规范/StyleCop.md",
+    "内容/技术/NET/CSharp/规范/注释风格.md",
+    "内容/技术/NET/CLR/基本类型/字符，字符串和文本处理/String/字符串留用.md",
+    "内容/技术/NET/CLR/基本类型/字符，字符串和文本处理/String/String.md",
+    "内容/技术/NET/CLR/核心机制/运行时序列化/运行时序列化.md",
+    "内容/技术/NET/CLR/核心机制/异常和状态管理/异常处理机制.md",
+    "内容/技术/NET/CLR/核心机制/异常和状态管理/定义异常.md",
+    "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序/反射的性能.md",
+    "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序/早期绑定与晚期绑定.md",
+    "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序/使用反射构建动态可扩展程序.md",
+    "内容/技术/Git/Git功能/Git tag.md",
+    "内容/技术/Git/Git工作流/Git工作流.md",
+    "内容/技术/Git/Git Tools/Tag already exists引起问题.md",
+    "内容/技术/Git/Git Tools/远端Git branch改名.md",
+    "内容/技术/Git/Git Tools/已推入远端的记录需要回退.md",
+    "内容/技术/Git/Git Tools/未拉取先提交引起错误.md",
+    "内容/技术/Git/Git Tools/强制追踪远端tag.md",
+    "内容/技术/Git/Git Tools/分支合并.md",
+    "内容/能力/项目管理/基础理论/项目管理理论框架.canvas",
+    "内容/能力/项目管理/基础理论/五大过程组.md",
     "附件/Image/UserGuideSubTitle.png",
     "附件/Image/UserGuideTitle.png",
     "附件/Image/干系人.png",
@@ -175,37 +197,16 @@
     "附件/Image/文本重排.png",
     "附件/Image/文档对比.png",
     "附件/Image",
-    "演示/文档重构复盘.md",
     "演示",
-    "内容/外部.md",
-    "内容/技术/Git/Git Tools/Tag already exists引起问题.md",
-    "内容/技术/Git/Git Tools/分支合并.md",
     "资料/Book/产品/人人都是产品经理 (苏杰 [苏杰]) (Z-Library).pdf",
     "资料/Book/产品/启示录：打造用户喜爱的产品.pdf",
-    "内容/技术/NET/WPF/WPF Tools/简化INotifyPropertyChanged实现.md",
     "资料/Book/写作/风格感觉：21世纪写作指南 ([美] 史蒂芬·平克) (Z-Library).pdf",
     "资料/Book/管理/格鲁夫给经理人的第一课：畅销版 ([美]安迪·格鲁夫) (Z-Library).pdf",
-    "内容/能力/沟通/即兴表达.md",
     "资料/Book/传记/史蒂夫·乔布斯传（修订版） ([美]沃尔特·艾萨克森) (Z-Library).pdf",
     "资料/Book/管理/做自己人生的CEO-人人都需要的管理术.pdf",
     "资料/Book/管理/影响力 (Robert B. Cialdini, 西奥迪尼, 闾佳) (Z-Library).pdf",
     "资料/Book/营销/高情商成交课 (梁汉桥).pdf",
-    "内容/管理/管资源/预判：谈判成功取决于谈判前.md",
-    "内容/管理/管团队/激发：培养独当一面的人才.md",
-    "内容/管理/管业务/流转：收集信息，提升决策质量.md",
-    "内容/能力/项目管理/基础理论/五大过程组.md",
-    "内容/能力/项目管理/基础理论/十大知识领域.md",
-    "内容/能力/项目管理/基础理论/项目管理理论框架.canvas",
-    "内容/能力/项目管理/排期/Work Breakdown Structure/什么是WBS.md",
-    "内容/能力/项目管理/基础理论/项目管理理论体系.md",
     "附件/Canvas/未命名.canvas",
-    "内容/能力/项目管理/排期/未命名.md",
-    "内容/未命名.md",
-    "配置/标签体系.md",
-    "内容/技术/Git/Git Tools/远端Git branch改名.md",
-    "内容/技术/Git/Git Tools/未拉取先提交引起错误.md",
-    "内容/技术/Git/Git工作流/Git工作流.md",
-    "内容/技术/Git/Git功能/Git tag.md",
     "未命名.canvas"
   ]
 }

@@ -1,5 +1,8 @@
 {
   "accentColor": "",
-  "theme": "moonstone",
-  "baseFontSize": 18
+  "theme": "obsidian",
+  "baseFontSize": 18,
+  "interfaceFontFamily": "Microsoft YaHei",
+  "textFontFamily": "Microsoft YaHei",
+  "monospaceFontFamily": "Microsoft YaHei"
 }

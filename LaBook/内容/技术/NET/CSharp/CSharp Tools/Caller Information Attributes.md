@@ -1,5 +1,8 @@
-#技术/NET #技术/工具包 
-
+---
+tags:
+  - 技术/NET
+  - 技术/工具包
+---
 `CallerMemberName`，`CallerFilePath` 和 `CallerLineNumber` 是 C# 中的调用者信息特性（Caller Information Attributes），它们提供了在编写代码时获取调用方的信息的便利方式。这些特性通常与可选的参数一起使用，这些参数由编译器在调用时填充。
 
 ## CallerMemberName

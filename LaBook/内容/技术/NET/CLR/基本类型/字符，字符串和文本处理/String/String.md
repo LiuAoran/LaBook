@@ -1,5 +1,7 @@
-#技术/NET 
-
+---
+tags:
+  - 技术/NET
+---
 ## String的概念
 
 C#中，一个String代表一个不可变（immutable）的顺序字符集，String类型直接派生自Object，所以是引用类型。因此，String对象永远存在于堆上，不会跑到线程栈。

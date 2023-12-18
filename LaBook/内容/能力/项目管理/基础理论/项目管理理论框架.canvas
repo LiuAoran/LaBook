@@ -6,11 +6,9 @@
 		{"id":"1023ea69a46295f1","type":"text","text":"临时性、独特性、不确定性","x":800,"y":-400,"width":300,"height":60},
 		{"id":"b8a788fa4c59a40a","type":"text","text":"知识、技能、工具与技术","x":800,"y":-280,"width":300,"height":60},
 		{"id":"2afb040be79ae311","type":"text","text":"传统","x":442,"y":-180,"width":250,"height":60},
-		{"id":"11708fb81d15e971","type":"text","text":"计划、分析、设计、实现、测试、维护","x":800,"y":-180,"width":360,"height":60},
-		{"id":"c688b7acd86cfa84","type":"text","text":"敏捷宣言","x":799,"y":-106,"width":250,"height":60},
 		{"id":"1c21473d0410d904","type":"text","text":"敏捷","x":442,"y":-10,"width":250,"height":60},
 		{"id":"f18f113ec8705225","type":"text","text":"迭代和增量","x":800,"y":80,"width":250,"height":60},
-		{"id":"b38474a3d19b5a16","type":"text","text":"scrum框架 3355","x":800,"y":-10,"width":250,"height":60},
+		{"id":"b38474a3d19b5a16","type":"text","text":"scrum框架 ","x":800,"y":-10,"width":250,"height":60},
 		{"id":"247314fa9b739622","type":"text","text":"确定性高的-传统","x":807,"y":170,"width":250,"height":60},
 		{"id":"f21ded93912350b5","type":"text","text":"差异","x":442,"y":223,"width":250,"height":60},
 		{"id":"353a71babe049836","type":"text","text":"复杂/复合 - 敏捷","x":807,"y":283,"width":250,"height":60},
@@ -19,10 +17,12 @@
 		{"id":"914e7135d562ad22","type":"text","text":"确定性高的-传统","x":807,"y":400,"width":250,"height":60},
 		{"id":"ec41d6cc1522022b","type":"text","text":"复杂/复合-敏捷","x":806,"y":512,"width":250,"height":60},
 		{"id":"973510365bbbb414","type":"text","text":"[[内容/能力/项目管理/基础理论/十大知识领域|十大知识领域]]","x":20,"y":660,"width":250,"height":60},
-		{"id":"b23afed7eca699b7","type":"text","text":"五大过程组","x":20,"y":820,"width":250,"height":60},
+		{"id":"b23afed7eca699b7","type":"text","text":"[[五大过程组]]","x":20,"y":820,"width":250,"height":60},
 		{"id":"0fed90dd40dd2650","type":"text","text":"整合/相关方/范围/进度/成本/质量/资源/采购/沟通/风险","x":360,"y":660,"width":660,"height":60},
 		{"id":"fccf43e0757ce7a9","type":"text","text":"启动/规划/执行/监控/收尾","x":360,"y":820,"width":660,"height":60},
-		{"id":"9b6530d478e75397","type":"text","text":"项目管理理论框架\n\n#能力/项目管理 ","x":-480,"y":310,"width":250,"height":120}
+		{"id":"9b6530d478e75397","type":"text","text":"项目管理理论框架\n\n#能力/项目管理 ","x":-480,"y":310,"width":250,"height":120},
+		{"id":"11708fb81d15e971","type":"text","text":"计划、分析、设计、实现、测试、维护","x":799,"y":-187,"width":360,"height":74},
+		{"id":"c688b7acd86cfa84","type":"text","text":"敏捷宣言","x":800,"y":-100,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"668f0cb46f28600f","fromNode":"9b6530d478e75397","fromSide":"right","toNode":"37498da4d204a4d1","toSide":"left"},
