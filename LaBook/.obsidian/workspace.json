@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8beccf99d4c7ebf1",
+        "id": "f3e28531a683cab6",
         "type": "tabs",
         "children": [
           {
-            "id": "ea4f44e4d23d2ebd",
+            "id": "0bd71ecf8469f212",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "配置/标签体系.md",
-                "mode": "source",
-                "source": false
+                "file": "资料/Book/小说和诗集/冬日笔记 ([美]保罗·奥斯特) .pdf"
               }
             }
           }
@@ -70,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 437.5,
+    "collapsed": true
   },
   "right": {
     "id": "7ae638e4659a95e4",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "配置/标签体系.md",
+                "file": "资料/Book/小说和诗集/冬日笔记 ([美]保罗·奥斯特) .pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "配置/标签体系.md",
+                "file": "资料/Book/小说和诗集/冬日笔记 ([美]保罗·奥斯特) .pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "配置/标签体系.md"
+                "file": "资料/Book/小说和诗集/冬日笔记 ([美]保罗·奥斯特) .pdf"
               }
             }
           },
@@ -157,9 +156,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea4f44e4d23d2ebd",
+  "active": "a20c1c23671d31b9",
   "lastOpenFiles": [
+    "资料/Book/小说和诗集/冬日笔记 ([美]保罗·奥斯特) .pdf",
     "内容/外部.md",
+    "资料/Book/小说和诗集/冬日笔记 ([美]保罗·奥斯特) (Z-Library).pdf",
+    "内容/技术/数据库/MySQL/创建数据库.md",
+    "内容/技术/数据库/MySQL/MySQL 介绍.md",
+    "配置/标签体系.md",
+    "内容/技术/数据库/MySQL",
+    "内容/技术/数据库",
     "内容/文档/用户指南文档说明.md",
     "内容/文档/DITA/定制PDF输出/XSLT 简介.md",
     "内容/能力/项目管理/基础理论/十大知识领域.md",
@@ -181,11 +187,7 @@
     "内容/技术/Git/Git Tools/Tag already exists引起问题.md",
     "内容/技术/Git/Git Tools/远端Git branch改名.md",
     "内容/技术/Git/Git Tools/已推入远端的记录需要回退.md",
-    "内容/技术/Git/Git Tools/未拉取先提交引起错误.md",
-    "内容/技术/Git/Git Tools/强制追踪远端tag.md",
-    "内容/技术/Git/Git Tools/分支合并.md",
     "内容/能力/项目管理/基础理论/项目管理理论框架.canvas",
-    "内容/能力/项目管理/基础理论/五大过程组.md",
     "附件/Image/UserGuideSubTitle.png",
     "附件/Image/UserGuideTitle.png",
     "附件/Image/干系人.png",
@@ -202,10 +204,6 @@
     "资料/Book/产品/启示录：打造用户喜爱的产品.pdf",
     "资料/Book/写作/风格感觉：21世纪写作指南 ([美] 史蒂芬·平克) (Z-Library).pdf",
     "资料/Book/管理/格鲁夫给经理人的第一课：畅销版 ([美]安迪·格鲁夫) (Z-Library).pdf",
-    "资料/Book/传记/史蒂夫·乔布斯传（修订版） ([美]沃尔特·艾萨克森) (Z-Library).pdf",
-    "资料/Book/管理/做自己人生的CEO-人人都需要的管理术.pdf",
-    "资料/Book/管理/影响力 (Robert B. Cialdini, 西奥迪尼, 闾佳) (Z-Library).pdf",
-    "资料/Book/营销/高情商成交课 (梁汉桥).pdf",
     "附件/Canvas/未命名.canvas",
     "未命名.canvas"
   ]
