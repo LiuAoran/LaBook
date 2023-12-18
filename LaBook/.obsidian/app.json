@@ -8,7 +8,7 @@
   "newFileFolderPath": "内容",
   "newLinkFormat": "absolute",
   "promptDelete": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",
