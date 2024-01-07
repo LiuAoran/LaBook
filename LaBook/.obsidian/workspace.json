@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ed19fc8d5c265e0a",
+        "id": "9dbdec923d5e8ca2",
         "type": "tabs",
         "children": [
           {
-            "id": "ab6fd22bb4932dc9",
+            "id": "c17df67287e2024f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "内容/外部.md",
-                "mode": "source",
-                "source": false
+                "file": "资料/Book/知识/知识管理——为业务绩效赋能 (尼克·米尔顿(Nick Milton), 帕特里克·拉姆(Patrick Lambe)) (Z-Library).pdf"
               }
             }
           }
@@ -70,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 314.5
   },
   "right": {
     "id": "7ae638e4659a95e4",
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "内容/外部.md",
+                "file": "资料/Book/知识/知识管理——为业务绩效赋能 (尼克·米尔顿(Nick Milton), 帕特里克·拉姆(Patrick Lambe)) (Z-Library).pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "内容/外部.md",
+                "file": "资料/Book/知识/知识管理——为业务绩效赋能 (尼克·米尔顿(Nick Milton), 帕特里克·拉姆(Patrick Lambe)) (Z-Library).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "内容/外部.md"
+                "file": "资料/Book/知识/知识管理——为业务绩效赋能 (尼克·米尔顿(Nick Milton), 帕特里克·拉姆(Patrick Lambe)) (Z-Library).pdf"
               }
             }
           },
@@ -143,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,47 +155,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab6fd22bb4932dc9",
+  "active": "c17df67287e2024f",
   "lastOpenFiles": [
-    "内容/技术/NET/CSharp/CSharp Tools/Caller Information Attributes.md",
-    "内容/技术/Git/Git功能/Git tag.md",
-    "内容/技术/Git/Git Tools/未拉取先提交引起错误.md",
-    "内容/技术/Git/Git Tools/强制追踪远端tag.md",
-    "内容/技术/Git/Git Tools/分支合并.md",
-    "内容/技术/Git/Git Tools/Tag already exists引起问题.md",
-    "内容/技术/Git/Git Tools/已推入远端的记录需要回退.md",
+    "资料/Book/知识/配色设计原理 (奥博斯科编辑部) (Z-Library).pdf",
+    "资料/Book/知识/单向度的人：发达工业社会意识形态研究 ([美]赫伯特·马尔库塞 刘继(译)) (Z-Library).pdf",
+    "资料/Book/知识/创意写作书系经典系列（套装共36册）（不管有没有写作的天赋，都可以有写作的热情，“创意写作系列”助力爱写作的你） ( etc.) (Z-Library).epub",
+    "资料/Book/知识/毫无意义的工作（真实得就像在你头顶装了一台“职场监控器”。40的工作无意义，我们还能怎么做？梁永安、严飞作序，陈嘉映、项飙、刘擎、罗家... (Z-Library).pdf",
+    "资料/Book/知识/像间谍一样观察 (杰克·谢弗 (Jack Schafer), 马文·卡林斯 (Marvin Karlins)) (Z-Library).pdf",
+    "资料/Book/知识/知识管理——为业务绩效赋能 (尼克·米尔顿(Nick Milton), 帕特里克·拉姆(Patrick Lambe)) (Z-Library).pdf",
     "内容/外部.md",
-    "内容/文档/DITA/定制PDF输出/XSLT 简介.md",
-    "内容/技术/NET/CSharp/规范/注释风格.md",
-    "资料/Book/小说和诗集/冬日笔记 ([美]保罗·奥斯特) .pdf",
-    "内容/管理/管资源/预判：谈判成功取决于谈判前.md",
-    "内容/技术/NET/框架设计/类型设计准则/类与结构体.md",
+    "内容/技术/NET/CSharp/CSharp Tools/Caller Information Attributes.md",
+    "内容/技术/NET/WPF/WPF Tools/简化INotifyPropertyChanged实现.md",
     "内容/技术/NET/框架设计/类型设计准则/类型和命名空间概述.md",
-    "附件/Image/干系人.png",
-    "内容/技术/数据库/MySQL/MySQL 介绍.md",
-    "内容/技术/数据库/MySQL/创建数据库.md",
-    "内容/技术/NET/CLR/设计类型/基元类型.md",
+    "内容/技术/NET/框架设计/类型设计准则/类与结构体.md",
+    "内容/文档/DITA/定制PDF输出/XSLT 简介.md",
+    "内容/技术/Git/Git Tools/已推入远端的记录需要回退.md",
+    "内容/技术/Git/Git工作流/Git工作流.md",
     "内容/技术/NET/CLR/基本类型/字符，字符串和文本处理/String/String.md",
     "内容/技术/NET/CLR/基本类型/字符，字符串和文本处理/String/字符串留用.md",
-    "内容/技术/NET/CLR/核心机制/运行时序列化/运行时序列化.md",
     "内容/技术/NET/CLR/核心机制/异常和状态管理/异常处理机制.md",
+    "内容/技术/NET/CLR/核心机制/运行时序列化/运行时序列化.md",
     "内容/技术/NET/CLR/核心机制/异常和状态管理/定义异常.md",
+    "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序/早期绑定与晚期绑定.md",
+    "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序/使用反射构建动态可扩展程序.md",
     "内容/技术/NET/CLR/核心机制/使用反射构建动态可扩展程序/反射的性能.md",
-    "内容/技术/Git/Git工作流/Git工作流.md",
-    "资料/Book/知识/单向度的人：发达工业社会意识形态研究 ([美]赫伯特·马尔库塞 刘继(译)) (Z-Library).pdf",
-    "资料/Book/知识/知识管理——为业务绩效赋能 (尼克·米尔顿(Nick Milton), 帕特里克·拉姆(Patrick Lambe)) (Z-Library).pdf",
-    "内容/文档/用户指南文档说明.md",
-    "内容/技术/NET/WPF/WPF Tools/彻底清除生成文件bat.md",
-    "内容/技术/NET/WPF/WPF Tools/简化INotifyPropertyChanged实现.md",
     "资料/Book/传记/史蒂夫·乔布斯传（修订版） ([美]沃尔特·艾萨克森) (Z-Library).pdf",
+    "内容/技术/数据库/MySQL/创建数据库.md",
+    "内容/技术/数据库/MySQL/MySQL 介绍.md",
+    "内容/技术/NET/Nuget/Nuget打包命令.md",
+    "内容/技术/NET/WPF/WPF Tools/彻底清除生成文件bat.md",
     "内容/技术/NET/Nuget",
+    "内容/技术/Git/Git Tools/分支合并.md",
     "资料/Book/项目管理/IT项目经理成长手记_第2版.pdf",
+    "资料/Book/小说和诗集/冬日笔记 ([美]保罗·奥斯特) .pdf",
     "资料/Book/小说和诗集/冬日笔记 ([美]保罗·奥斯特) (Z-Library).pdf",
-    "内容/技术/数据库/MySQL",
-    "内容/技术/数据库",
+    "配置/标签体系.md",
+    "内容/文档/用户指南文档说明.md",
+    "内容/能力/项目管理/基础理论/十大知识领域.md",
+    "内容/能力/沟通/即兴表达.md",
     "内容/能力/项目管理/基础理论/项目管理理论框架.canvas",
     "附件/Image/UserGuideSubTitle.png",
     "附件/Image/UserGuideTitle.png",
+    "附件/Image/干系人.png",
     "附件/Image/DITA阅读顺序.png",
     "附件/Image/函数名功能不匹配.png",
     "附件/Image/功能分点.png",
@@ -206,7 +204,6 @@
     "附件/Image/引起问题的空格.png",
     "附件/Image/文本重排.png",
     "附件/Image/文档对比.png",
-    "附件/Image",
     "附件/Canvas/未命名.canvas",
     "未命名.canvas"
   ]
